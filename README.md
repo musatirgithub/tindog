@@ -1,4 +1,3 @@
-# [tindog](https://musatirgithub.github.io/tindog/)
 # [Project : tindog](https://musatirgithub.github.io/tindog/)
 ## Table of contents
 
@@ -12,11 +11,11 @@
 
 
 ## The challenge
-Project aims to display an HTML & CSS training info page
+Project focuses on a dog flirt site
 
 ## Problem Statement
 
-- Develop an app which shows a homepage for HTML & CSS training and by clicking a link, user should be able to reach a daily schedule page.
+- Develop an app including a bootstrap navbar, carousel, cards, icons, etc.
 <hr>
 
 
@@ -32,15 +31,17 @@ Project aims to display an HTML & CSS training info page
 
 
 ### Project Information
-- Max-Challenge website is made by using HTML & CSS,
+- Tindog website is made by using Bootstrap5, HTML & CSS,
 - Fonts are imported from Google Fonts,
-- CSS files are connected to HTML files by using <link rel="stylesheet" href="styles/shared.css"> element.
+- 
+
 
 
 ------
 I used;
 - HTML
 - CSS
+- Bootstrap5
 
 
 
@@ -55,6 +56,7 @@ I used;
 - [W3 Schools](https://www.w3schools.com/) 
 - [MDN](https://developer.mozilla.org/en-US/) 
 - [GOOGLE FONTS](https://fonts.google.com/) 
+- [BOOTSTRAP5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) 
 
 
 
