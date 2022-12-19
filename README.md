@@ -33,7 +33,10 @@ Project focuses on a dog flirt site
 ### Project Information
 - Tindog website is made by using Bootstrap5, HTML & CSS,
 - Fonts are imported from Google Fonts,
-- 
+- From bootstrap5 library, 
+- Carousel,
+- Cards,
+- Navbar are used.
 
 
 
@@ -49,7 +52,7 @@ I used;
 
 ## Lesson Learned
 
-- This was my first webpage. When I forgot to link CSS file my stylings did not work. First thing should be linking CSS file to HTML in the projects. 
+- Bootstrap is a rich CSS library. Things like navbars, cards, carousels can be created within a few minutes and we can save lots of time. 
 
 ### Useful resources
 
