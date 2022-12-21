@@ -52,7 +52,7 @@ I used;
 
 ## Lesson Learned
 
-- Bootstrap is a rich CSS library. Things like navbars, cards, carousels can be created within a few minutes and we can save lots of time. 
+- Bootstrap is a rich CSS library. Things like navbars, cards, carousels can be created within a few minutes and we can save lots of styling time.
 
 ### Useful resources
 
