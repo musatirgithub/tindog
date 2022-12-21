@@ -33,10 +33,10 @@ Project focuses on a dog flirt site
 ### Project Information
 - Tindog website is made by using Bootstrap5, HTML & CSS,
 - Fonts are imported from Google Fonts,
-- From bootstrap5 library, 
+- From bootstrap5 library: 
 - Carousel,
 - Cards,
-- Navbar are used.
+- and Navbar are used.
 
 
 
